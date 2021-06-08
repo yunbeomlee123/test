@@ -1839,7 +1839,7 @@ here:
 //		cout<<num_break_rb[k]<<endl;
 //	}
 
-	if(w_x[0]!=0)
+	//if(w_x[0]!=0)
 	{
 			if(bond_check==true){
 				if(termi_break==true){
